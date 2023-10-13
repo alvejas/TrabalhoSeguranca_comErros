@@ -1,4 +1,4 @@
-# Trabalho de segurança
-Projeto desenvolvido no ambito da unidade curricular Segurança pertencente ao Mestrado em Engenharia Informática: Desenvolvimento de Software e Ambientes Interativos. O projeto consiste no desenvolvimento de um website vulneravel a falhas de segurança. 
-Posteriormente será realizado noutro repositorio a correção destas falhas.
+# Security work
+Project developed within the scope of the Security curricular unit belonging to the Master's degree in Computer Engineering: Software Development and Interactive Environments. The project consists of developing a website vulnerable to security breaches.
+These errors will later be corrected in another repository.
 
